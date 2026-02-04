@@ -7,7 +7,7 @@ $promotions = [
             'prix-promo' => 280,
             'device' => '$',
         ],
-        'prix Twiga' => [
+        'Farine Twiga' => [
             'prix-initial' => 53000,
             'prix-promo' => 42000,
             'device' => 'FC',
