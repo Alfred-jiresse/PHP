@@ -7,7 +7,7 @@
 <section class="max-w-7xl mx-auto px-4 py-8">
     <div class="mb-8">
         <h1 class="text-3xl font-bold text-white tracking-tight">
-            Nos meilleures offres 🔥
+            Nos meilleures offres 
         </h1>
         <p class="text-gray-400 mt-1 text-sm">
             Sélection exclusive de promotions en temps limité
