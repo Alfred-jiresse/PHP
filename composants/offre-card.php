@@ -3,7 +3,7 @@
     <!-- Image -->
     <div class="relative">
         <img class="w-full h-52 object-cover rounded-t-2xl" 
-             src="<?php echo 'images/'.$details['image']; ?>" 
+             src="<?php echo $details['image']; ?>" 
              alt="product image" />
 
         <!-- Badge promo -->

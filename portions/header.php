@@ -31,22 +31,22 @@
                                 alt="Your Company" class="size-8" />
                         </div>
                         <div class="hidden md:block">
-                            <div class="ml-10 flex items-baseline space-x-4">
+                            <div class="ml-10 flex items-baseline space-x-6">
                                 <!-- Current: "bg-gray-950/50 text-white", Default: "text-gray-300 hover:bg-white/5 hover:text-white" -->
                                 
                                 <a href="index.php"
-                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/index.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-3 py-2 text-sm font-medium">Accuiel</a>
+                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/index.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-4 py-2 text-sm font-medium">Accuiel</a>
                             
                                 <a href="magasins.php"
-                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/magasins.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-3 py-2 text-sm font-medium">Magasins</a>
+                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/magasins.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-4 py-2 text-sm font-medium">Magasins</a>
                                 
                                 <a href="publier.php"
-                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/publier.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-3 py-2 text-sm font-medium">publier</a>
+                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/publier.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-4 py-2 text-sm font-medium">Publier</a>
                                    
 
 
                                 <a href="contact.php"
-                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/contact.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-3 py-2 text-sm font-medium">Contact</a>
+                                    class="<?php echo $_SERVER['REQUEST_URI'] === '/lshipromo/contact.php'? "bg-gray-950/50 text-white" : "text-gray-300 hover:bg-white/5 hover:text-white"; ?> rounded-md px-4 py-2 text-sm font-medium">Contact</a>
                             
                             </div>
                         </div>
